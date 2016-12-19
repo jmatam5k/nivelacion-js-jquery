@@ -44,6 +44,14 @@ function renderActivity(recipe) {
 $(document).ready(function(){
     $("#element2").hide();
     $("#element1").hide();
+    
 });
+function printNews(){
+	$(document).ready(function(){
+		$("#texto").text("NUEVAS RECETAS");	
+	})
+}
+printNews();
+
 
 
