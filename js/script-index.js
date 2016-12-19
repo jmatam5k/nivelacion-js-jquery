@@ -41,5 +41,9 @@ function renderActivities(activitiesArray) {
 function renderActivity(recipe) {
 	
 }
+$(document).ready(function(){
+    $("#element2").hide();
+    $("#element1").hide();
+});
 
 
